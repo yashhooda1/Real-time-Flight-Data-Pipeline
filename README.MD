@@ -169,7 +169,7 @@ CI/CD | GitHub Actions | Automated testing and deployment
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yashhooda1/real-time-flight-data-pipeline.git
-cd realtime-flight-data-pipeline
+cd real-time-flight-data-pipeline
 ```
 
 ### 2. Set Up Environment
@@ -233,7 +233,7 @@ docker-compose exec airflow-webserver airflow dags trigger flight_etl_daily
 ## Project Structure
 
 ```
-realtime-flight-data-pipeline/
+real-time-flight-data-pipeline/
 │
 ├── .github/
 │   └── workflows/
