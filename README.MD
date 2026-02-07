@@ -168,7 +168,7 @@ CI/CD | GitHub Actions | Automated testing and deployment
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/realtime-flight-data-pipeline.git
+git clone https://github.com/yashhooda1/real-time-flight-data-pipeline.git
 cd realtime-flight-data-pipeline
 ```
 
