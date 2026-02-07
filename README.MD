@@ -1,7 +1,7 @@
 # GitHub Repository Package for Flight Data Pipeline
 
 ## Repository Name
-`realtime-flight-data-pipeline`
+`real-time-flight-data-pipeline`
 
 ## Repository Description (Short - 350 chars max)
 Production-grade real-time data engineering project processing flight data with Apache Kafka, Spark Streaming, and Airflow. Features dimensional modeling, data quality checks, and cloud deployment. Built with Python, Docker, and Terraform. Demonstrates end-to-end DE skills from ingestion to analytics.
