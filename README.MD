@@ -699,10 +699,10 @@ See CONTRIBUTING.md for guidelines on:
 
 ## Contact & Support
 
-**Author**: Your Name
-- LinkedIn: your-profile
-- Email: your.email@example.com
-- Portfolio: your-website
+**Author**: Yash Hooda
+- LinkedIn: https://www.linkedin.com/in/yash-hooda-384430242/
+- Email: yash.hooda6@gmail.com
+- Portfolio: https://yashhooda1.github.io/yashhooda/
 
 **Issues**: Please report bugs via GitHub Issues
 
